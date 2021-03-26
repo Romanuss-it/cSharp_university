@@ -1,0 +1,14 @@
+D:\university\2 курс\Крос-платформенне програмування\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+D:\university\2 курс\Крос-платформенне програмування\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\university\2 курс\Крос-платформенне програмування\lab03\lab03\bin\Debug\lab03.exe.config
+D:\university\2 курс\Крос-платформенне програмування\lab03\lab03\bin\Debug\lab03.exe
+D:\university\2 курс\Крос-платформенне програмування\lab03\lab03\bin\Debug\lab03.pdb
+D:\university\2 курс\Крос-платформенне програмування\lab03\lab03\obj\Debug\lab03.exe
+D:\university\2 курс\Крос-платформенне програмування\lab03\lab03\obj\Debug\lab03.pdb
+D:\university\2 курс\1 семестр\Крос-платформенне програмування\lab03\lab03\bin\Debug\lab03.exe.config
+D:\university\2 курс\1 семестр\Крос-платформенне програмування\lab03\lab03\bin\Debug\lab03.exe
+D:\university\2 курс\1 семестр\Крос-платформенне програмування\lab03\lab03\bin\Debug\lab03.pdb
+D:\university\2 курс\1 семестр\Крос-платформенне програмування\lab03\lab03\obj\Debug\lab03.csprojAssemblyReference.cache
+D:\university\2 курс\1 семестр\Крос-платформенне програмування\lab03\lab03\obj\Debug\lab03.csproj.CoreCompileInputs.cache
+D:\university\2 курс\1 семестр\Крос-платформенне програмування\lab03\lab03\obj\Debug\lab03.exe
+D:\university\2 курс\1 семестр\Крос-платформенне програмування\lab03\lab03\obj\Debug\lab03.pdb

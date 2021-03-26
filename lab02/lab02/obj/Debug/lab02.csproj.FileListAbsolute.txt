@@ -1,0 +1,7 @@
+D:\university\2 курс\Крос-платформенне програмування\lab02\lab02\bin\Debug\lab02.exe.config
+D:\university\2 курс\Крос-платформенне програмування\lab02\lab02\bin\Debug\lab02.exe
+D:\university\2 курс\Крос-платформенне програмування\lab02\lab02\bin\Debug\lab02.pdb
+D:\university\2 курс\Крос-платформенне програмування\lab02\lab02\obj\Debug\lab02.csprojAssemblyReference.cache
+D:\university\2 курс\Крос-платформенне програмування\lab02\lab02\obj\Debug\lab02.csproj.CoreCompileInputs.cache
+D:\university\2 курс\Крос-платформенне програмування\lab02\lab02\obj\Debug\lab02.exe
+D:\university\2 курс\Крос-платформенне програмування\lab02\lab02\obj\Debug\lab02.pdb
